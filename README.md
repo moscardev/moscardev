@@ -1,3 +1,2 @@
-- 👋 Hello, I'm @moscardev
-- 👀 I have been on the internet for 6 years. The languages I know now are PHP, HTML, CSS, JavaScript and Python.
-- 🌱 I am currently a student and studying ...
+- 👋 Merhaba, Ben @moscardev
+- 👀 Boş zamanlarımda yazılım ile uğraşmaktayım. Şu anda bildiğim diller PHP, HTML, CSS, JavaScript ve Python.
