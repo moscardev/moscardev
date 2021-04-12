@@ -1,2 +1,2 @@
-- 👋 Merhaba, Ben @moscardev
+- 👋 Merhaba, Ben @megudev
 - 👀 Boş zamanlarımda yazılım ile uğraşmaktayım. Şu anda bildiğim diller PHP, HTML, CSS, JavaScript ve Python.
